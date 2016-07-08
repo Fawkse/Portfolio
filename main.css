@@ -1,0 +1,29 @@
+body {
+	height: 100%;
+	margin: 0;
+	text-align: center;
+	width: 100%;
+	background-color: #a052ad;
+}
+
+h2 {
+	font-size: 32px;
+  color: #1b86e4;
+  font-size: 30px;
+}
+
+h3{
+  color: #55aa89;
+  font-size: 25px;
+}
+
+h4{
+	color: #e8177c;
+	font-size: 20px;
+}
+
+p{
+  color: orange;
+  font-size: 20px;
+}
+
